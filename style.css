@@ -58,7 +58,7 @@ p {
 
 
 .main-banner {
-    background: url(../images/banner1.jpg)no-repeat center;
+    background: url(banner1.jpg)no-repeat center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
